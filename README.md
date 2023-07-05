@@ -74,4 +74,4 @@ En la documentación de Bootstrap, se proporciona el código HTML y CSS necesari
 
 ## Documentacion
 
-[Bootstrap Offical Website](https://getbootstrap.com/)
+[Bootstrap Official Website](https://getbootstrap.com/)
